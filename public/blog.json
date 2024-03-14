@@ -1,0 +1,59 @@
+ [
+      {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/XjGTMD7/photo-1633356122544-f134324a6cee.jpg",
+        "name": "Blog Name 1",
+        "author_name": "Author Name 1",
+        "author_img": "https://i.ibb.co/r23pynX/images.jpg",
+        "publish_date": "2024-03-14",
+        "read_time": 10,
+        "title": "How to get your first job as a self-taught programmer",
+        "hashtags": ["technology", "programming", "webdev"]
+      },
+      {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/SvVvfTS/MHQ-Developer.jpg",
+        "name": "Blog Name 2",
+        "author_name": "Author Name 2",
+        "author_img": "https://i.ibb.co/r23pynX/images.jpg",
+        "publish_date": "2024-03-13",
+        "read_time": 8,
+        "title": "The How to get your first job as a self-taught programmer2",
+        "hashtags": ["science", "research", "innovation"]
+      },
+      {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/1TphcQp/toy-bricks-table-with-word-my-blog-144627-47466.jpg",
+        "name": "Blog Name 3",
+        "author_name": "Author Name 3",
+        "author_img": "https://i.ibb.co/r23pynX/images.jpg",
+        "publish_date": "2024-03-12",
+        "read_time": 15,
+        "title": "How to get your first job as a self-taught programmerg 3",
+        "hashtags": ["health", "fitness", "nutrition"]
+      },
+      {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/S3dBfkP/istockphoto-1162709822-612x612.jpg",
+        "name": "Blog Name 4",
+        "author_name": "Author Name 4",
+        "author_img": "https://i.ibb.co/r23pynX/images.jpg",
+        "publish_date": "2024-03-11",
+        "read_time": 12,
+        "title": "How to get your first job as a self-taught programmerBlog 4",
+        "hashtags": ["business", "entrepreneurship", "finance"]
+      },
+      {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/WBms3qk/photo-1486312338219-ce68d2c6f44d.jpg",
+        "name": "Blog Name 5",
+        "author_name": "Author Name 5",
+        "author_img": "https://i.ibb.co/r23pynX/images.jpg",
+        "publish_date": "2024-03-10",
+        "read_time": 7,
+        "title": "How to get your first job as a self-taught programmer 5",
+        "hashtags": ["art", "design", "creativity"]
+      }
+    ]
+
+  
